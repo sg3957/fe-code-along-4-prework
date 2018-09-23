@@ -139,4 +139,7 @@ section{
   
 }
 
-#social a
+#social a {
+  display: block;
+  
+}
