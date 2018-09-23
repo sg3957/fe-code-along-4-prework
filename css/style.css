@@ -131,5 +131,8 @@ section{
 
 /*SOCIAL*/
 #social {
-  position: fix
+  position: fixed;
+  top: 200px;
+  
+  
 }
